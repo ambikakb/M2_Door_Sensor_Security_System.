@@ -54,6 +54,7 @@
 ![Screenshot (35)](https://user-images.githubusercontent.com/101825270/164878229-0fbbe17c-2713-4578-94db-f75de5eac375.png)
 
 
+
 # ATMEGA 328
 
 * ATmega328 is an 8-bit, 28-Pin AVR Microcontroller, manufactured by Microchip, follows RISC Architecture and has a flash-type program memory of 32KB.
@@ -66,3 +67,23 @@ Atmega328 is the microcontroller, used in basic Arduino boards i.e Arduino UNO, 
 * Its excellent features include cost-efficiency, low power dissipation, programming lock for security purposes, real timer counter with separate oscillator.
 
 ![ATmega328-Pinout-768x571](https://user-images.githubusercontent.com/101825270/164878166-ef090162-62b1-42d5-be79-4c97d5d34d82.png)
+
+## High Level Test Plan
+
+| Test ID | Description | Expected Input |  Expected Output | Actual Output | Type Of Test |
+| ------- | ----------- | -------------- | ---------------- | ------------- | ------------ |
+| H_01 |  Checking weather the led is blinking or not | 0v |  SUCCESS | SUCCESS  | Requirement based |
+| H_02 | Cheking that the LED blinking | 5v | SUCCESS | SUCCESS | Requirement based |
+| H_03  | By inserted input  | code itself | PASS |  SUCCESS | Technical |
+
+
+## Low Level Test Plan
+
+| Test ID | Description | Expected Input |  Expected Output | Actual Output | Type Of Test |
+| ------- | ----------- | -------------- | ---------------- | ------------- | ------------ |
+| L_01  | Whether the door close |  LED will not blink |SUCCESS | SUCCESS  | Scenario based |
+| L_02  | is the door open  | clicking on switch | SUCCESS | SUCCESS | Scenario based |
+
+
+# OUTPUT
+![Screenshot (30)](https://user-images.githubusercontent.com/101825270/164890706-c759ae06-e104-4c4a-a1ee-730d38790b39.png)
