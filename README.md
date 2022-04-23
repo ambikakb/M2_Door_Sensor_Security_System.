@@ -42,8 +42,6 @@
 
 ## Learning Resources
 
-- [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [markdownBasics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [git inspector](https://github.com/ejwa/gitinspector)
 - [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
