@@ -56,4 +56,19 @@
 * switch
 * LED
 * voltmeter
+* 
+## High Level Requirements
+
+| Test ID |	Description |	Type Of Test |
+| ------- | ------------- | ------------ |
+| H_01 |check the LED bliking  | Requirement based 
+| H_02 | security checking	|	Requirement based |
+
+
+## Low Level Requirements
+
+| Test ID |	Description |	Type Of Test |
+| ------- |  -------------- | ------------ |
+| L_01	| The door is open or close | Scenario based |
+| L_02	| Check that the switch state |	Scenario based |
 
