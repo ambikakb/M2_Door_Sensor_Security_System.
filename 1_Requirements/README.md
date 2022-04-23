@@ -49,3 +49,11 @@
 
 ### THREAT:
 * Due to component issue system may inactive sometimes. 
+
+## Required components
+* ATMEGA 328p
+* Resistor
+* switch
+* LED
+* voltmeter
+
