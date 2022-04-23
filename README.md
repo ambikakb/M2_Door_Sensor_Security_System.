@@ -1,3 +1,15 @@
+# INTRODUCTION
+* Door plays an important role in home security.
+* Door Sensor Security System implemented by using atemga328p.
+* In This system we use switch to close or open the door.
+* We can also use sensors instead of switch.
+* Power Supply is given to the circuit i.e 5v.
+* Here we use LED as an indicator, whether the door is opened or closed.
+* If the switch is closed the LED will blink, else the LED will not blink
+ 
+## OBJECTIVE
+* For security purpose, to check whether the door is open or close.
+
 # M2_Door_Sensor_Security_System.
 
 [![CI](https://github.com/ambikakb/M2_Door_Sensor_Security_System./actions/workflows/CI.yml/badge.svg)](https://github.com/ambikakb/M2_Door_Sensor_Security_System./actions/workflows/CI.yml)
