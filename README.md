@@ -30,6 +30,14 @@
 | 5_Report |	Report of the whole project |
 | 6_Images | Images of the Output |
 
+## Contributors List and Summary 
+
+* Some Test Cases are similar functions and are merged
+
+| S No | Name | Features | Issues Raised | Issues Resolved | Number of Test Cases | Test Case Pass |
+| ---- | ---- | -------- | ------------- | --------------- | -------------------- | -------------- |
+| 1 | Ambika k b| All | 1 | 1 | 1 | 1 | 
+
 ## GitHub Actions
 
 - Build using Make for CI
